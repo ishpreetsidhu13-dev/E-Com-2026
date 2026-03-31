@@ -1,0 +1,12 @@
+/*
+Theme Name: Scenario Three
+
+Author: Ishpreet Singh
+
+*/
+
+/*
+Required theme file.
+Main styling is loaded from assets/css/main.css to keep this file clean.
+*/
+@import url('assets/css/main.css');
